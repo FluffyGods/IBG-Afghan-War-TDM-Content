@@ -1,0 +1,15 @@
+VertexLitGeneric
+{
+	"$basetexture"	"codmw2\opfor\helmeit"
+	"$bumpmap" "codmw2\opfor\helmeit_n"	
+
+ 	"$phong" "1"
+	"$phongexponent" "20"
+	"$phongboost"	"1"
+	"$phongfresnelranges"	"[0.5 0.7 1]"
+
+	"$rimlight" 1
+	"$rimlightexponent" 2
+	"$rimlightboost" 2
+
+}

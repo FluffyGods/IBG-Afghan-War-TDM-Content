@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\COD4\SA6\SA6_Track_Woodland"
+	"$translucent" 1
+}

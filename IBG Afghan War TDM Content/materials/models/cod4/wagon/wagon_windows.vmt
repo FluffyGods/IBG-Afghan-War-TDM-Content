@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\COD4\Wagon\Wagon_Windows"
+	"$translucent" 1
+}

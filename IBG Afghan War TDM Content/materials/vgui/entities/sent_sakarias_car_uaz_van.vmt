@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "VGUI/entities/sent_sakarias_car_uaz_van"
+	"$vertexcolor" 		1 
+	"$vertexalpha" 		1 
+	"$nolod" 		1 
+}

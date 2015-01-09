@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\COD4\pickup\pickup_Glass"
+	"$translucent" 1
+}

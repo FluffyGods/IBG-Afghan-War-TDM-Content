@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\COD4\OpFor_Truck\Truck_Glass"
+	"$translucent" 1
+}

@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	"$basetexture"	"codmw2\fsb\eye"	
+	"$halflambert" 1
+}

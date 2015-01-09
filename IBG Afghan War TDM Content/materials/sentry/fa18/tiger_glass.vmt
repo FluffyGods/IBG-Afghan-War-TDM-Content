@@ -1,0 +1,16 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "sentry\fa18\Tiger_glass"
+	"$translucent" "1"
+	"$envmap" "env_cubemap"
+	"$envmapcontrast" "1"
+	"$envmaptint" "[ 0.15 0.15 0.17 ]"
+	"$model" 1
+	"$halflambert" 1
+	"$bumpmap" "sentry\fa18\Tiger_glass_n"
+	"$phong" "1"
+	"$phongexponent" "30"
+	"$phongboost" "1"	
+	"$phongfresnelranges"	"[ 6 3 6 ]"
+
+}

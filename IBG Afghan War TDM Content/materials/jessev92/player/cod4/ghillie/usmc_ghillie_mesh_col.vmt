@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "jessev92\player\cod4\ghillie\usmc_ghillie_mesh_col"
+
+        "$bumpmap" "jessev92\player\cod4\ghillie\usmc_ghillie_mesh_nml"
+
+	"$alphatest" 1
+}

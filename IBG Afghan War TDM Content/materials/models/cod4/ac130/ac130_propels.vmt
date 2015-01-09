@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\COD4\AC130\AC130_PROPELS"
+	"$translucent" 1
+}

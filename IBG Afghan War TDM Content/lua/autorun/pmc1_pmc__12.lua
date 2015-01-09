@@ -1,0 +1,1 @@
+player_manager.AddValidModel( "PMC1_12",                     "models/player/PMC_1/PMC__12.mdl" )  list.Set( "PlayerOptionsModel",  "PMC1_12",                     "models/player/PMC_1/PMC__12.mdl" )

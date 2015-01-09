@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\COD4\Slamraam\Slamraam_Trailer_Decals"
+	"$translucent" 1
+}

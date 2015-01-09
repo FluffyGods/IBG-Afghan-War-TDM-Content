@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\COD4\Humvee\Humvee_Glass"
+	"$translucent" 1
+}

@@ -1,0 +1,11 @@
+VertexLitGeneric
+{
+	"$basetexture"	"codmw2\opfor\face2"
+	"$bumpmap" "codmw2\opfor\face_n"	
+
+ 	"$phong" "1"
+	"$phongexponent" "1"
+	"$phongboost"	"0.30"
+	"$phongfresnelranges"	"[0.12 0.2 0.7]"
+
+}

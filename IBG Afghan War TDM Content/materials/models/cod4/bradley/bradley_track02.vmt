@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\COD4\bradley\bradley_track02"
+	"$translucent" 1
+}

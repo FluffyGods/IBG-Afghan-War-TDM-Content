@@ -1,0 +1,15 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/CODMW2/traitors/ct_urban_glass"
+	
+
+// Specularity
+	"$envmap" 			"env_cubemap"
+	"$envmapmask" "models/CODMW2/traitors/ct_urban_glass_spec"
+
+
+// Transparency
+	"$translucent" 1
+	
+	
+}

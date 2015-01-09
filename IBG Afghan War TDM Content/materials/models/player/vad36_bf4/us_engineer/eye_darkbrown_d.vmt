@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\player\vad36_bf4\us_engineer/eye_darkbrown_d"
+	"$bumpmap" "models\player\vad36_bf4\us_engineer/eye_darkbrown_n"
+}

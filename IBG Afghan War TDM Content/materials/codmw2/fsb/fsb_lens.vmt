@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	"$basetexture"	"codmw2\fsb\fsb_lens"
+	"$translucent" 1	
+}

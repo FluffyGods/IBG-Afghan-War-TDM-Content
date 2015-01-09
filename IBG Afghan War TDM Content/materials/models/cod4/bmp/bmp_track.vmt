@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\COD4\bmp\bmp_track"
+	"$translucent" 1
+}
